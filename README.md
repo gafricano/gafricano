@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gafricano
 - 👀 I’m a info sec enthusiast, everything secure!
-- 💞️ I’m looking to collaborate on python based project focusing on info sec tools
+- 💞️ I’m looking to collaborate on python based projects for infosec tooling
 - 📫 You can reach me over here ofc
 
 <!---

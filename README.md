@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gafricano
-- 👀 I’m a info sec profession, I love to architect, build and break.
+- 👀 I’m a info sec professional, I love to architect, build and break.
 - 💞️ I’m looking to collaborate on python based projects for infosec tooling, automated security tests, OSINT, you name it.
 - 📫 You can reach me over here ofc
 - 🔒 Secure Everything
